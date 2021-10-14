@@ -9,6 +9,13 @@ package Entidades;
  *
  * @author flora
  */
-public class ModificarConAnimal {
+public class Perro {
     
+    private String nombre;
+    private String tamanio;
+    private String edad;
+    private String tipo;
+    private String color;
+    private boolean cola;
+    private String raza;
 }
